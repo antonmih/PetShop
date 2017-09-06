@@ -5,5 +5,6 @@
 <ul>
     <li>Hello git!</li>
     <li>Push template for site-design development</li>
-    <li>Create design for header</li>
+    <li>Create design for nav-menu</li>
 </ul>
+<p>Logo for nav <br> <img src="app/img/logo.jpg"></p>
