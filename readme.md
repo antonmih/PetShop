@@ -7,4 +7,4 @@
     <li>Push template for site-design development</li>
     <li>Create design for nav-menu</li>
 </ul>
-<p>Logo for nav <br> <img src="https://raw.githubusercontent.com/andreykame/petshop/app/img/logo.jpg"><br></p>
+<p>Logo for nav <br> <img src="https://raw.githubusercontent.com/AndreykaMe/PetShop/design/app/img/logo.jpg"><br></p>
