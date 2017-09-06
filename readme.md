@@ -7,4 +7,4 @@
     <li>Push template for site-design development</li>
     <li>Create design for nav-menu</li>
 </ul>
-<p>Logo for nav <br> <img src="app/img/logo.jpg"></p>
+<p>Logo for nav <br> <img src="app/img/logo.jpg"><br></p>
