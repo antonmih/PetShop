@@ -41,24 +41,46 @@ body
 	display: block
 	max-width: 100%
 	height: auto
+.navbar-header
+  height: 80px
+  .navbar-brand
+    height: inherit
+    padding: 2px
+    display: flex
+    img
+      display: block
+      margin: auto
+      height: 100%
+      width: auto
+      border-radius: 10em
 
-.navigation
-  background-color: rgba(110, 110, 110, 0.73)
-  font-family: 'Arial'
-  .navigation-logo
-    font-size: 24px
-    font-weight: 800
-  .navigation-menu
-    ul
-      margin: 0
-      padding: 4px
-      li
-        display: inline
-        margin-right: 5px
-        font-size: 18px
-        a
-          color: rgba(black, .6)
-          &:hover
-            color: black
+.navbar-collapse
+  ul
+    padding-top: 15px
+    padding-left: 25px
+    li
+      font-family: 'Raleway', sans-serif
+      font-size: 20px
+      line-height: 80px
+      font-weight: 400
+      margin: auto
+      line-height: 80px
+      white-space: nowrap
+.login
+  text-align: right
+  font-size: 24px
+  line-height: 80px
+  font-family: "Raleway", sans-serif
+  font-weight: 300
+  color: #585858
+  a
+    text-decoration: none
+    color: #585858
+    white-space: nowrap
+    padding: 0 15px
+    transition: font-weight .1s ease
+    &:hover
+      font-weight: 500
+
 
 @import "media" // Всегда в конце
